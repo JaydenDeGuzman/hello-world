@@ -1,3 +1,3 @@
 # hello-world
 First GitHub repository
-# Hello, this is my first repository on GitHub, I hop you enjoy! My favourite fruit is apple.
+# Nothing much to say except Lorem ipsum dolor sit amet
